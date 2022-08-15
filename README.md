@@ -1,3 +1,3 @@
 ## Food Festival
 
--[Food Festival-->](git@github.com:Codechef27/food-festival.git)
+-[Food Festival-->](https://codechef27.github.io/food-festival/)
